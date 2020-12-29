@@ -3,6 +3,7 @@ Data Science projects by Jelal. This is my repo for portfolio projects that I di
 
 ### Downloading the datasets
 1) Dataset for [portfolio_project.py](https://github.com/jenapss/DataScience/blob/main/portfolio_project.py) comes from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance). Feel free go to that dataset source and explore more dataset.
+2) Dataset for [life_expectancy_gdp.py](https://github.com/jenapss/DataScience/blob/main/life_expectancy_gdp.ipynb) is [here](https://github.com/jenapss/DataScience/blob/main/all_data.csv)
 
 
 ### CTA
