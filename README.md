@@ -1,8 +1,8 @@
 ### DataScience Portfolio Projects
 Data Science projects by Jelal. This is my repo for portfolio projects that I did during my [Data Science Career Path](https://www.codecademy.com/learn/paths/data-science). 
 
-### Data Scientist Certificate
-![]()
+### Data Scientist Certificate👨🏻‍💻
+![Certificate](https://github.com/jenapss/DataScience/blob/main/camphoto_959030623.JPG?raw=true)
 
 
 
