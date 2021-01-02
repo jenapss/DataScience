@@ -1,6 +1,11 @@
 ### DataScience Portfolio Projects
 Data Science projects by Jelal. This is my repo for portfolio projects that I did during my [Data Science Career Path](https://www.codecademy.com/learn/paths/data-science). 
 
+### Data Scientist Certificate
+![]()
+
+
+
 ### Projects 
 
 1) U.S. Medical Insurance Cost project is about investigating the U.S medical insurance dataset. In this project I found out that the people's smoking habit most impactful to their insurance cost. Hence there is correlation between 'smoke' and 'charges' columns. This project is very useful for practicing different analytical skills and also practice the Pandas library. 
