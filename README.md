@@ -1,5 +1,12 @@
 ### DataScience Portfolio Projects
 
+![](https://img.shields.io/badge/Tensorflow->=2.0-green) ![](https://img.shields.io/badge/Python->=3.6-blue) ![](https://img.shields.io/badge/powered_by-Keras-orange) 
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+
 Data Science projects by Jelal. This is my repo for portfolio projects that I did during my [Data Science Career Path](https://www.codecademy.com/learn/paths/data-science).
 
 👉Link to my Codecademy [Profile](https://www.codecademy.com/profiles/JelaleddinSultanov)
