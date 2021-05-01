@@ -6,7 +6,7 @@ Data Science projects by Jelal. This is my repo for portfolio projects that I di
 
 ### Data Scientist Certificate👨🏻‍💻
 
-![Certificate](https://github.com/jenapss/DataScience/blob/main/camphoto_959030623.JPG?raw=true)
+![Certificate](https://github.com/jenapss/DataScience/blob/main/Certificates/camphoto_959030623.JPG?raw=true)
 
 ### Projects
 
