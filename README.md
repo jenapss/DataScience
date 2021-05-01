@@ -22,4 +22,4 @@ Data Science projects by Jelal. This is my repo for portfolio projects that I di
 
 ### CTA
 
-If you liked this repo please follow me on Github and [Medium](medium.com/@greatphilosopher98). In Medium, I post different Data Science and Machine learning articles.
+If you liked this repo please follow me on Github and [Medium](jelal.medium.com). In Medium, I post different Data Science and Machine learning articles.
