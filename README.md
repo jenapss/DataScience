@@ -11,6 +11,7 @@
 Data Science projects by Jelal. This is my repo for portfolio projects that I did during my [Data Science Career Path](https://www.codecademy.com/learn/paths/data-science).
 
 👉Link to my Codecademy [Profile](https://www.codecademy.com/profiles/JelaleddinSultanov)
+
 👉Link to my Kaggle [Profile](https://www.kaggle.com/aladdinss)
 
 ### Data Scientist Certificate👨🏻‍💻
