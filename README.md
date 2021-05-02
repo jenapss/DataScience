@@ -1,4 +1,5 @@
-### DataScience Portfolio Projects
+
+# DataScience Portfolio Projects of Jelal
 
 ![](https://img.shields.io/badge/Tensorflow->=2.0-green) ![](https://img.shields.io/badge/Python->=3.6-blue) ![](https://img.shields.io/badge/powered_by-Keras-orange) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
