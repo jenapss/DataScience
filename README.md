@@ -24,7 +24,7 @@ This project is about investigating the U.S medical insurance dataset. In this p
 
 This project is about understanding - is the growth of life expectancy correlated with their GDPs. In dataset we have5 co untries given their GDP and life expectancy values over 15 years(2000-2015). 5 countries given in dataset: Germany, USA, China, Mexicoa and Zimbabwe. As a result of this project I found out that there is direct correlation between country's GDP and life expectancy - more it has GDP, higher it has life expectancy. Please feel free to explore that python notebook for more insights: [life_expectancy_gdp.py](https://github.com/jenapss/DataScience/blob/main/life_expectancy_gdp.ipynb)
 
-## Kaggle Projects
+## Kaggle Projects and Datasets
 
 ### 1. Titanic Survival Prediction.
 
@@ -33,6 +33,10 @@ This project is about understanding - is the growth of life expectancy correlate
 1. Dataset for [portfolio_project.py](https://github.com/jenapss/DataScience/blob/main/portfolio_project.py) comes from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance). Feel free go to that dataset source and explore more dataset.
 2. Dataset for [life_expectancy_gdp.py](https://github.com/jenapss/DataScience/blob/main/life_expectancy_gdp.ipynb) is [here](https://github.com/jenapss/DataScience/blob/main/all_data.csv)
 3. Australia Wildfire Visualization Dataset
+
+### Datasets (collected and shared by Jelal)
+
+I have collected and annotated several image datasets, which I shared them online on Kaggle. Below is description of each dataset I created and their usage methods:
 
 ### CTA
 
